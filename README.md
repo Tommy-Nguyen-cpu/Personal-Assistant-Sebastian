@@ -22,3 +22,5 @@ Sebastian was created for my Network Programming class with a main goal of imple
 8. You can open applications on your computer as long as you include "open " and the name of the application (this requires the SPECIFIC name of the application and typing it correctly).
 
 9. You can also change the brightness of the computer by just including the term "brightness " followed by a number. For example, "Change brightness to 50" would work.
+
+10. Lastly, you can end the program by clicking on the "x" in the top right corner of the window, or by typing "bye Sebastian".
