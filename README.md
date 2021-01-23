@@ -3,6 +3,8 @@ Sebastian was created for my Network Programming class with a main goal of imple
 
  Note: Personal Assistant Sebastian is mostly finished. Many of its functionalities are case sensitive and requires specific wording. This issue will be fixed in the future. Additionally, Sebastian is capable of sending emails, but because it attempts to connect to the server directly (through CMD lines of code), it will almost always throw a "Our server detects..." error. This issue will also be solved in the near future.
  
+ Note: Because the folder I uploaded is a zip file, you will need to click "view raw" and download my zip file in order to view it.
+ 
  Below are some listed functionalities and directions for Sebastian:
  
 1. Sebastian is capable of holding simple conversations, but the conversations are based on the response Sebastian expects from the user in the "Conversations" file found within the source folder. Not much has been added to the Conversations file, but adding more is a simple matter.
