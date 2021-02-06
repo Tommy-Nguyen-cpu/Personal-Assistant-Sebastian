@@ -15,7 +15,7 @@ Sebastian was created for my Network Programming class with a main goal of imple
 
 4. You can ask Sebastian to search something up on google by saying, "search up " followed by what it is you want to search up.
 
-5. You can get information off of Wikipedia by saying, "Look up information about " followed by what you want to look up. Note: This is very sensitive to what you type and the casing of your words (whether it is uppercase or lowercase). If you type it incorrectly, Sebastian will say " #Redirect" followed by the term. However, since the user cannot see it (Sebastian only speaks it), it is difficult for the user to know what they need to type correctly (this issue is a simple fix, will fix in the future).
+5. You can get information off of Wikipedia by saying, "Look up information about " followed by what you want to look up. Note: This is very sensitive to what you type and the casing of your words (whether it is uppercase or lowercase). If you type it incorrectly, Sebastian will say " #Redirect" followed by the term. However, since the user cannot see it (Sebastian only speaks it), it is difficult for the user to know what they need to type correctly (this issue is a simple fix, will fix in the future). However, there are many cases where the server won't return a "#Redirect", but will throw an exception in response to the search attempt.
 
 6. Sebastian is capable of getting the system information (Amount of ram, memory, etc) as long as you include "system information" if your request.
 
