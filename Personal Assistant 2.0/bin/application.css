@@ -1,0 +1,4 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#background{
+	-fx-background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/77/Pixel_art_grass_image.png");
+}
